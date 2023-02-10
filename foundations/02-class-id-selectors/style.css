@@ -1,0 +1,20 @@
+
+p {
+    background-color: rgb(196, 94, 94);
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
+
+div {
+    color: rgb(25, 25, 129);
+    font-size: 36px;
+}
+
+.subsection {
+    font-size: 36px;
+}
+
+.frontsection {
+    background-color: rgb(67, 194, 67);
+    font: 24px;
+    font-weight: bold;
+}
