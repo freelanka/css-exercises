@@ -36,6 +36,7 @@ ul {
 
 /*Text decoration removes the underline under a link */
 a {
+  color: black;
   text-decoration: none;
 }
 
